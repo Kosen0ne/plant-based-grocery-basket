@@ -1,0 +1,85 @@
+﻿Brand,Product,Package Size,Serving Size,Retailer,Category,VEGAN,IRON (mg),B12 (µg),IODINE (µg),CALCIUM (mg),OMEGA3 (mg)
+Wonder,Wholemeal Sandwich Bread,700g,2 slices (70g),Woolworths,Bread,TRUE,2,0,10,60,40
+Wonder,White Sandwich Bread,700g,2 slices (70g),Woolworths,Bread,TRUE,1.4,0,8,50,30
+Macro,Organic Rolled Oats,500g,40g,Woolworths,Breakfast,TRUE,1.7,0,0,20,20
+Sanitarium,Weet-Bix,575g,2 biscuits (30g),Woolworths,Breakfast,TRUE,2,0,12,45,40
+Kellogg's,Corn Flakes,380g,30g,Woolworths,Breakfast,TRUE,2,0,5,5,5
+Macro,Brown Rice,500g,150g cooked,Woolworths,Grains,TRUE,0.7,0,0,15,20
+SunRice,Long Grain White Rice,1kg,150g cooked,Woolworths,Grains,TRUE,0.4,0,0,15,10
+San Remo,Spaghetti,500g,150g cooked,Woolworths,Grains,TRUE,1.5,0,2,20,20
+Macro,Organic Chickpeas,400g,120g drained,Woolworths,Legumes,TRUE,2.8,0,3,55,60
+Macro,Organic Lentils,400g,120g drained,Woolworths,Legumes,TRUE,3.6,0,3,25,70
+Edgell,Red Kidney Beans,420g,120g drained,Woolworths,Legumes,TRUE,2.5,0,2,40,50
+Macro,Organic Firm Tofu,300g,100g,Woolworths,Protein,TRUE,2.5,0,5,350,500
+Woolworths,Edamame Beans,500g,100g,Woolworths,Protein,TRUE,2.3,0,2,60,300
+Plantitude,Plant-Based Mince,300g,100g,Woolworths,Protein,TRUE,2.5,1,5,80,100
+Macro,Peanut Butter,375g,20g,Woolworths,Spreads,TRUE,0.4,0,0,10,10
+Macro,Chia Seeds,300g,20g,Woolworths,Nuts & Seeds,TRUE,1.5,0,1,126,3500
+Macro,Ground Linseed,250g,20g,Woolworths,Nuts & Seeds,TRUE,1.1,0,1,52,4500
+Woolworths,Walnuts,200g,30g,Woolworths,Nuts & Seeds,TRUE,0.9,0,1,30,2700
+Woolworths,Almonds,400g,30g,Woolworths,Nuts & Seeds,TRUE,1.1,0,1,75,10
+Macro,Pepitas,300g,30g,Woolworths,Nuts & Seeds,TRUE,2.6,0,1,14,30
+Macro,Tahini,375g,20g,Woolworths,Spreads,TRUE,1,0,1,130,50
+Vitasoy,Calci-Plus Soy Milk,1L,250mL,Woolworths,Plant Milk,TRUE,1,1,20,300,100
+So Good,Almond Milk,1L,250mL,Woolworths,Plant Milk,TRUE,0.5,0,15,300,50
+Vitasoy,Oat Milk,1L,250mL,Woolworths,Plant Milk,TRUE,0.5,0,15,300,100
+Woolworths,Iodised Table Salt,500g,1g,Woolworths,Pantry,TRUE,0,0,45,0,0
+Woolworths,Baby Spinach,120g,100g,Woolworths,Vegetables,TRUE,2.7,0,15,99,140
+Woolworths,Broccoli,500g,100g,Woolworths,Vegetables,TRUE,0.7,0,10,47,50
+Woolworths,Bananas,1.5kg,1 medium (120g),Woolworths,Fruit,TRUE,0.3,0,2,6,30
+Woolworths,Royal Gala Apples,1kg,1 medium (150g),Woolworths,Fruit,TRUE,0.2,0,0,10,10
+Woolworths,White Potatoes,2kg,200g,Woolworths,Vegetables,TRUE,1.8,0,8,30,20
+Lindt,70% Dark Chocolate,100g,30g,Woolworths,Discretionary,TRUE,2,0,2,20,20
+Smith's,Original Potato Chips,170g,30g,Woolworths,Discretionary,TRUE,0.5,0,1,10,30
+Tip Top,The One Wholemeal Bread,700g,2 slices (70g),Coles,Bread,TRUE,2,0,10,60,40
+Tip Top,The One White Bread,700g,2 slices (70g),Coles,Bread,TRUE,1.4,0,8,50,30
+Coles,Rolled Oats,1kg,40g,Coles,Breakfast,TRUE,1.7,0,0,20,20
+Sanitarium,Weet-Bix,575g,2 biscuits (30g),Coles,Breakfast,TRUE,2,0,12,45,40
+Kellogg's,Corn Flakes,380g,30g,Coles,Breakfast,TRUE,2,0,5,5,5
+SunRice,Brown Rice,1kg,150g cooked,Coles,Grains,TRUE,0.7,0,0,15,20
+SunRice,Long Grain White Rice,1kg,150g cooked,Coles,Grains,TRUE,0.4,0,0,15,10
+San Remo,Spaghetti,500g,150g cooked,Coles,Grains,TRUE,1.5,0,2,20,20
+Edgell,Chick Peas,400g,120g drained,Coles,Legumes,TRUE,2.8,0,3,55,60
+Edgell,Lentils,400g,120g drained,Coles,Legumes,TRUE,3.6,0,3,25,70
+Edgell,Cannellini Beans,400g,120g drained,Coles,Legumes,TRUE,2.5,0,2,60,50
+Coles,Organic Firm Tofu,300g,100g,Coles,Protein,TRUE,2.5,0,5,350,500
+Coles,Silken Tofu,300g,100g,Coles,Protein,TRUE,1.8,0,4,150,400
+Coles,Plant-Based Mince,300g,100g,Coles,Protein,TRUE,2.5,1,5,80,100
+Coles,Plant-Based Sausages,300g,100g,Coles,Protein,TRUE,2,1,5,70,100
+Coles,Peanut Butter,375g,20g,Coles,Spreads,TRUE,0.4,0,0,10,10
+Coles,Chia Seeds,300g,20g,Coles,Nuts & Seeds,TRUE,1.5,0,1,126,3500
+Coles,Almonds,500g,30g,Coles,Nuts & Seeds,TRUE,1.1,0,1,75,10
+Coles,Pepitas,300g,30g,Coles,Nuts & Seeds,TRUE,2.6,0,1,14,30
+Coles,Tahini,375g,20g,Coles,Spreads,TRUE,1,0,1,130,50
+Vitasoy,Calci-Plus Soy Milk,1L,250mL,Coles,Plant Milk,TRUE,1,1,20,300,100
+So Good,Almond Milk,1L,250mL,Coles,Plant Milk,TRUE,0.5,0,15,300,50
+Vitasoy,Oat Milk,1L,250mL,Coles,Plant Milk,TRUE,0.5,0,15,300,100
+Coles,Iodised Table Salt,500g,1g,Coles,Pantry,TRUE,0,0,45,0,0
+Birds Eye,Garden Mix Frozen Vegetables,1kg,75g,Coles,Vegetables,TRUE,0.5,0,10,35,40
+Coles,Frozen Peas,1kg,100g,Coles,Vegetables,TRUE,1.5,0,3,25,40
+Coles,Fresh Broccoli,500g,100g,Coles,Vegetables,TRUE,0.7,0,10,47,50
+Coles,Bananas,1kg,1 medium (120g),Coles,Fruit,TRUE,0.3,0,2,6,30
+Coles,Royal Gala Apples,1kg,1 medium (150g),Coles,Fruit,TRUE,0.2,0,0,10,10
+Lindt,70% Dark Chocolate,100g,30g,Coles,Discretionary,TRUE,2,0,2,20,20
+Smith's,Original Potato Chips,170g,30g,Coles,Discretionary,TRUE,0.5,0,1,10,30
+ALDI,Baker's Life Wholemeal Bread,700g,2 slices (70g),ALDI,Bread,TRUE,2,0,10,60,40
+ALDI,Just Organic Rolled Oats,1kg,40g,ALDI,Breakfast,TRUE,1.7,0,0,20,20
+ALDI,Corn Flakes,500g,30g,ALDI,Breakfast,TRUE,2,0,5,5,5
+ALDI,Long Grain Brown Rice,1kg,150g cooked,ALDI,Grains,TRUE,0.7,0,0,15,20
+ALDI,Spaghetti,500g,150g cooked,ALDI,Grains,TRUE,1.5,0,2,20,20
+ALDI,Black Beans,400g,120g drained,ALDI,Legumes,TRUE,2.5,0,2,40,50
+ALDI,Chickpeas,400g,120g drained,ALDI,Legumes,TRUE,2.8,0,3,55,60
+ALDI,Lentils,400g,120g drained,ALDI,Legumes,TRUE,3.6,0,3,25,70
+ALDI,Calcium Fortified Soy Milk,1L,250mL,ALDI,Plant Milk,TRUE,1,1,20,300,100
+ALDI,Almond Milk,1L,250mL,ALDI,Plant Milk,TRUE,0.5,0,15,300,50
+ALDI,Oat Milk,1L,250mL,ALDI,Plant Milk,TRUE,0.5,0,15,300,100
+ALDI,Firm Tofu,300g,100g,ALDI,Protein,TRUE,2.5,0,5,350,500
+ALDI,Vegan Burger,200g,100g,ALDI,Protein,TRUE,2,1,5,80,100
+ALDI,Frozen Edamame,500g,100g,ALDI,Protein,TRUE,2.3,0,2,60,300
+ALDI,Peanut Butter,375g,20g,ALDI,Spreads,TRUE,0.4,0,0,10,10
+ALDI,Tahini,375g,20g,ALDI,Spreads,TRUE,1,0,1,130,50
+ALDI,Chia Seeds,300g,20g,ALDI,Nuts & Seeds,TRUE,1.5,0,1,126,3500
+ALDI,Cashews,500g,30g,ALDI,Nuts & Seeds,TRUE,1.9,0,1,11,15
+ALDI,Mixed Nuts,500g,30g,ALDI,Nuts & Seeds,TRUE,1.3,0,1,30,800
+ALDI,Dark Chocolate,100g,30g,ALDI,Discretionary,TRUE,2,0,2,20,20
+ALDI,Potato Chips,170g,30g,ALDI,Discretionary,TRUE,0.5,0,1,10,30
